@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="996a0901-1614-4c25-afff-f5f1acecad90" name="Default Changelist" comment="">
+      <change afterPath="G:/Arithmetic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/Power.java" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/PrintToMaxOfNDigits01.java" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/PrintToMaxOfNDigits02.java" afterDir="false" />
+      <change afterPath="G:/Arithmetic/src/com/ghj/myoffer/ReverseList.java" afterDir="false" />
+      <change afterPath="G:/Sort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="G:/Sort/src/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="G:/Sort/src/sort/InsterionSort.java" afterDir="false" />
+      <change afterPath="G:/Sort/src/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="G:/cakeshop/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="G:/cakeshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Article.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/CourseFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaArticle.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaCoursrFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/JavaVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonArticle.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonCourseFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Test.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/abstractfactory/Video.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/FEVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/FEVideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/JavaVideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/PythonVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/PythonVideoFatory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/Test.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/Video.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/VideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/factorymethod/javaVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/PythonVideo.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/Test.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/Video.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/VideoFactory.java" afterDir="false" />
+      <change afterPath="G:/design_pattern/src/com/laogao/design/pattern/creational/simplefactory/javaVideo.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/controller/UserController.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/LogsMapper.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/mapper/UsersMapper.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/pojo/Logs.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/pojo/Users.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/service/GuestService.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/java/com/ssm/service/imp/GuestServiceImp.java" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/resources/jdbc.properties" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/webapp/WEB-INF/app-servlet.xml" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/webapp/WEB-INF/page/regist.jsp" afterDir="false" />
+      <change afterPath="G:/items/ssm-demo/src/main/webapp/WEB-INF/page/success.jsp" afterDir="false" />
+      <change afterPath="G:/js-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-cli-demo/vue-cli-demo.iml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/.idea/vue-demo.iml" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello2.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello3.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello4.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello5.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/hello6.html" afterDir="false" />
+      <change afterPath="G:/js-demo/vue-demo/vue-demo.iml" afterDir="false" />
+      <change afterPath="G:/leyou/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="G:/leyou/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/leyou/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/ly-gateway.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/src/main/java/com/leyou/gateway/lyGateway.java" afterDir="false" />
+      <change afterPath="G:/leyou/ly-gateway/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-interface/ly-item-interface.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-interface/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-service/ly-item-service.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item-service/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/ly-item.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-item/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/lyregistry.iml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/pom.xml" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/src/main/java/com/leyou/LyRegistry.java" afterDir="false" />
+      <change afterPath="G:/leyou/ly-registry/src/main/resources/appliction.yml" afterDir="false" />
+      <change afterPath="G:/redis-demo/lib/commons-pool2-2.3.jar" afterDir="false" />
+      <change afterPath="G:/redis-demo/lib/jedis-2.7.0.jar" afterDir="false" />
+      <change afterPath="G:/resume/img/p.jpg" afterDir="false" />
+      <change afterPath="G:/resume/index.html" afterDir="false" />
+      <change afterPath="G:/resume/resume.html" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_aop_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_beans_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_context_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_core_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_expression_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_tx_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_web_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/testgit/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/misc.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-common/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-mapper/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-pojo/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-service/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/pom.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/mybatis/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/resource/jdbc.properties" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-dao.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
+      <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ghj/nio/TestBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/binaryTree/OrderRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/linkedlist/PrintCommonPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/stackAndQueue/MyStack1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../design/src/com/ghj/singletons/Singleton04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/AutoConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/CharTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/FloatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/IntegerValTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/MathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/NarrowConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/PrimitiveAndString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/RandomStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes01/UndersocreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes02/DoWhileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes02/DoWhileTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/ArrayInRam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/ArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/Gobang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/Nun2Rmb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/PrimitiveArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/ReferenceArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes03/TwoDimesionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes04/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes04/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes04/ReturnThis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes04/StaticAccessNostatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/codes04/ThisInConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/demo/Fin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/demo/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javase/src/com/ghj/demo/getValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/chapter1/TryConcurrency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multithreading/src/com/ghj/thread/Singleton.java" afterDir="false" />
+      <change beforePath="G:/b.txt" beforeDir="false" />
+      <change beforePath="G:/readme.txt" beforeDir="false" />
+      <change beforePath="G:/test.txt" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/ghj/nio/TestBuffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="G:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ghj/nio/TestBuffer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="965" />
+    <option name="y" value="10" />
+    <option name="width" value="975" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaNIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaNIO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaNIO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaNIO" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestBuffer.test3">
+    <configuration name="TestBuffer.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ghj.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.ghj.nio.TestBuffer" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ghj.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.ghj.nio.TestBuffer" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuffer.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ghj.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.ghj.nio.TestBuffer" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestBuffer.test3" />
+        <item itemvalue="JUnit.TestBuffer.test2" />
+        <item itemvalue="JUnit.TestBuffer.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="996a0901-1614-4c25-afff-f5f1acecad90" name="Default Changelist" comment="" />
+      <created>1570328969579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570328969579</updated>
+      <workItem from="1570328973656" duration="4430000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 42m 26s.xml">
+      <configuration name="TestBuffer.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 44m 06s.xml">
+      <configuration name="TestBuffer.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 46m 20s.xml">
+      <configuration name="TestBuffer.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 50m 37s.xml">
+      <configuration name="TestBuffer.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 50m 53s.xml">
+      <configuration name="TestBuffer.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test2 - 2019.10.06 at 14h 04m 00s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test2 - 2019.10.06 at 14h 05m 07s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test2 - 2019.10.06 at 14h 06m 01s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test2 - 2019.10.06 at 14h 06m 52s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestBuffer_test2 - 2019.10.06 at 14h 08m 09s.xml">
+      <configuration name="TestBuffer.test2" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4430000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_91/src.zip!/java/nio/Buffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="187" column="25" lean-forward="true" selection-start-line="184" selection-start-column="4" selection-end-line="187" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_91/src.zip!/java/nio/ByteBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="262" column="14" selection-start-line="262" selection-start-column="14" selection-end-line="262" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ghj/nio/TestBuffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
