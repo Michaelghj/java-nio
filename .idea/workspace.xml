@@ -127,7 +127,6 @@
       <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-service.xml" afterDir="false" />
       <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/applicationContext-trans.xml" afterDir="false" />
       <change afterPath="G:/testgit/shop-parent/shop-manager/shop-manager-web/src/main/resources/spring/springmvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../aithmeticr/src/com/ghj/Sort/MergeSort.java" afterDir="false" />
@@ -174,6 +173,7 @@
       <change beforePath="G:/readme.txt" beforeDir="false" />
       <change beforePath="G:/test.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/JavaNIO/com/ghj/nio/TestChannel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaNIO/com/ghj/nio/TestChannel.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/ghj/nio/TestChannel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ghj/nio/TestChannel.java" afterDir="false" />
     </list>
@@ -204,8 +204,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/ghj/nio/TestChannel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="20" column="117" selection-start-line="20" selection-start-column="117" selection-end-line="20" selection-end-column="117" />
+            <state relative-caret-position="13">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -300,23 +300,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestChannel.test2">
-    <configuration name="TestBuffer.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaNIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ghj.nio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.ghj.nio" />
-      <option name="MAIN_CLASS_NAME" value="com.ghj.nio.TestBuffer" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestChannel.test3">
     <configuration name="TestBuffer.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaNIO" />
       <extension name="coverage">
@@ -381,13 +365,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestChannel.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaNIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ghj.nio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ghj.nio" />
+      <option name="MAIN_CLASS_NAME" value="com.ghj.nio.TestChannel" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestChannel.test3" />
         <item itemvalue="JUnit.TestChannel.test2" />
         <item itemvalue="JUnit.TestChannel.test1" />
         <item itemvalue="JUnit.TestBuffer.test3" />
         <item itemvalue="JUnit.TestBuffer.test2" />
-        <item itemvalue="JUnit.TestBuffer.test" />
       </list>
     </recent_temporary>
   </component>
@@ -401,17 +401,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570328969579</updated>
-      <workItem from="1570328973656" duration="8742000" />
+      <workItem from="1570328973656" duration="10521000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 50m 37s.xml">
-      <configuration name="TestBuffer.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestBuffer_test - 2019.10.06 at 13h 50m 53s.xml">
-      <configuration name="TestBuffer.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestBuffer_test2 - 2019.10.06 at 14h 04m 00s.xml">
       <configuration name="TestBuffer.test2" configurationId="JUnit" />
     </history-entry>
@@ -436,9 +430,15 @@
     <history-entry file="TestChannel_test2 - 2019.10.06 at 17h 06m 50s.xml">
       <configuration name="TestChannel.test2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestChannel_test3 - 2019.10.06 at 17h 20m 58s.xml">
+      <configuration name="TestChannel.test3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestChannel_test3 - 2019.10.06 at 17h 21m 11s.xml">
+      <configuration name="TestChannel.test3" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8742000" />
+    <option name="totallyTimeSpent" value="10521000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,7 +458,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32991204" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -468,7 +468,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32991204" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -547,8 +547,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/ghj/nio/TestChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="20" column="117" selection-start-line="20" selection-start-column="117" selection-end-line="20" selection-end-column="117" />
+        <state relative-caret-position="13">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

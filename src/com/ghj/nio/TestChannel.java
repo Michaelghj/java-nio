@@ -8,11 +8,20 @@ import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
 public class TestChannel {
+    @Test
+    public void test3() throws IOException {
+        FileChannel inchannel =  FileChannel.open(Paths.get("1.jpg"), StandardOpenOption.READ);
+        FileChannel outchannel = FileChannel.open(Paths.get("2.jpg"),StandardOpenOption.WRITE,StandardOpenOption.READ,StandardOpenOption.CREATE);
+
+        inchannel.transferTo(0,inchannel.size(),outchannel);
+
+        inchannel.close();
+        outchannel.close();
+    }
     //2. 利用通道完成文件的复制(利用内存映射文件)
     //只有byteBuffer支持 其他不支持
     @Test
