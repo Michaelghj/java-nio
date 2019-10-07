@@ -2,9 +2,7 @@ package com.ghj.nio;
 
 import org.junit.Test;
 
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.nio.ByteBuffer;
 import java.nio.MappedByteBuffer;
 import java.nio.channels.FileChannel;
@@ -12,6 +10,35 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 
 public class TestChannel {
+
+    @Test
+    public void test4() throws IOException {
+
+        RandomAccessFile random = new RandomAccessFile("1.txt", "rw");
+        //获取通道
+        FileChannel channel1 = random.getChannel();
+        //分配大小指定的缓冲区
+        ByteBuffer buffer1 = ByteBuffer.allocate(100);
+        ByteBuffer buffer2 = ByteBuffer.allocate(1024);
+
+        //分散读取
+        ByteBuffer[] bytes = {buffer1, buffer2};
+        channel1.read(bytes);
+        for (ByteBuffer byteBuffer : bytes) {
+            byteBuffer.flip();
+        }
+        System.out.println(new String(bytes[0].array(), 0, bytes[0].limit()));
+
+        System.out.println(new String(bytes[1].array(), 0, bytes[1].limit()));
+
+        //聚集写入
+        RandomAccessFile random1 = new RandomAccessFile("2.txt", "rw");
+        FileChannel fileChannel = random1.getChannel();
+
+        fileChannel.write(bytes);
+        random.close();
+        random1.close();
+    }
     @Test
     public void test3() throws IOException {
         FileChannel inchannel =  FileChannel.open(Paths.get("1.jpg"), StandardOpenOption.READ);
